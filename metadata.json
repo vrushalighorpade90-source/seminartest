@@ -1,0 +1,6 @@
+{
+  "name": "SeminarTest",
+  "description": "Mobile seminar testing and peer evaluation platform with AI MCQ generation, 50/50 presenter grading, and Google Sheets export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
